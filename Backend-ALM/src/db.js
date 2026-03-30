@@ -33,6 +33,29 @@ const connectionConfig = buildConnectionConfig();
 
 const pool = new Pool(connectionConfig);
 
+function fixPotentialMojibake(text) {
+  if (typeof text !== "string") {
+    return text;
+  }
+
+  const originalNoise = (text.match(/[�ÃÂ]/g) || []).length;
+  const converted = Buffer.from(text, "latin1").toString("utf8");
+  const convertedNoise = (converted.match(/[�ÃÂ]/g) || []).length;
+
+  return convertedNoise < originalNoise ? converted : text;
+}
+
+function normalizeProductOutput(product) {
+  if (!product) {
+    return product;
+  }
+
+  return {
+    ...product,
+    name: fixPotentialMojibake(product.name)
+  };
+}
+
 async function initDatabase() {
   await pool.query(`
     CREATE TABLE IF NOT EXISTS products (
@@ -56,7 +79,7 @@ async function findProductByName(name) {
     [name.trim()]
   );
 
-  return rows[0] || null;
+  return normalizeProductOutput(rows[0] || null);
 }
 
 async function searchProductsByPrefix(query, limit = 10) {
@@ -74,7 +97,7 @@ async function searchProductsByPrefix(query, limit = 10) {
     [prefix, normalizedLimit]
   );
 
-  return rows.map((row) => row.name);
+  return rows.map((row) => fixPotentialMojibake(row.name));
 }
 
 async function updateProductPriceByName(name, price) {
@@ -88,7 +111,7 @@ async function updateProductPriceByName(name, price) {
     [name.trim(), price]
   );
 
-  return rows[0] || null;
+  return normalizeProductOutput(rows[0] || null);
 }
 
 async function createProduct(name, price, currency = "ARS") {
@@ -101,7 +124,7 @@ async function createProduct(name, price, currency = "ARS") {
     [name.trim(), price, currency]
   );
 
-  return rows[0];
+  return normalizeProductOutput(rows[0]);
 }
 
 async function deleteProductByName(name) {
@@ -114,7 +137,7 @@ async function deleteProductByName(name) {
     [name.trim()]
   );
 
-  return rows[0] || null;
+  return normalizeProductOutput(rows[0] || null);
 }
 
 async function loadDefaultProducts() {
