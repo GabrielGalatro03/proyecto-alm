@@ -120,14 +120,9 @@ async function deleteProductByName(name) {
 async function loadDefaultProducts() {
   try {
     const { rows } = await pool.query("SELECT COUNT(*) as count FROM products");
-    const count = parseInt(rows[0].count, 10);
-    
-    if (count > 0) {
-      console.log(`Database already has ${count} products, skipping default load`);
-      return;
-    }
+    const countBefore = parseInt(rows[0].count, 10);
 
-    console.log("Database is empty, loading default products...");
+    console.log(`Syncing default products. Current DB count: ${countBefore}`);
     const fs = require("fs");
     const path = require("path");
     const defaultFile = path.join(__dirname, "default-products.json");
@@ -138,15 +133,17 @@ async function loadDefaultProducts() {
     }
 
     const products = JSON.parse(fs.readFileSync(defaultFile, "utf-8"));
-    
+
     for (const product of products) {
       await pool.query(
         "INSERT INTO products (name, price, currency) VALUES ($1, $2, $3) ON CONFLICT (name) DO NOTHING",
         [product.name, product.price, product.currency || "ARS"]
       );
     }
-    
-    console.log(`Loaded ${products.length} default products`);
+
+    const afterResult = await pool.query("SELECT COUNT(*) as count FROM products");
+    const countAfter = parseInt(afterResult.rows[0].count, 10);
+    console.log(`Default products sync complete. Expected list: ${products.length}, DB count now: ${countAfter}`);
   } catch (error) {
     console.error("Error loading default products:", error.message);
   }
