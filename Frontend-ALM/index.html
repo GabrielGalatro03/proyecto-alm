@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consulta de precios - Almacen</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="auth-gate" class="auth-gate">
+      <form id="login-form" class="auth-card">
+        <h1>El almacen de la Mirta</h1>
+        <p>Ingresa tus credenciales para continuar.</p>
+        <input id="login-username" type="text" placeholder="Usuario" autocomplete="username" required />
+        <input
+          id="login-password"
+          type="password"
+          placeholder="Contrasena"
+          autocomplete="current-password"
+          required
+        />
+        <button type="submit">Entrar</button>
+        <section id="login-result" class="result" aria-live="polite"></section>
+      </form>
+    </div>
+
+    <div class="app-shell">
+      <aside class="sidebar">
+        <span class="brand-chip">El almacen de la Mirta</span>
+        <h2 class="menu-title">Menu</h2>
+        <button id="menu-consult" class="menu-item active" type="button">Consultar precio</button>
+        <button id="menu-add" class="menu-item" type="button">Agregar producto</button>
+        <button id="menu-delete" class="menu-item" type="button">Eliminar producto</button>
+        <hr class="section-divider" />
+        <button id="logout-btn" class="menu-item danger-btn" type="button">Cerrar sesion</button>
+      </aside>
+
+      <main class="container">
+        <section id="consult-view" class="view-section">
+          <h1>Consulta de precios</h1>
+          <p>Escribe un producto y mira su precio al instante.</p>
+
+          <form id="price-form" class="form">
+            <div class="input-wrap">
+              <input
+                id="product-name"
+                name="product-name"
+                type="text"
+                placeholder="Ej: crema"
+                autocomplete="off"
+                required
+              />
+              <div id="suggestions-panel" class="suggestions-panel hidden" aria-live="polite">
+                <ul id="suggestions-list" class="suggestions-list"></ul>
+              </div>
+            </div>
+            <button type="submit">Buscar</button>
+          </form>
+
+          <section id="result" class="result" aria-live="polite"></section>
+
+          <section id="update-flow" class="update-flow hidden" aria-live="polite">
+            <p class="update-question">Quieres cambiar el precio de este producto?</p>
+            <div class="update-actions">
+              <button id="confirm-update-yes" type="button" class="btn-secondary">Si</button>
+              <button id="confirm-update-no" type="button" class="btn-secondary">No</button>
+            </div>
+
+            <form id="update-price-form" class="update-form hidden">
+              <input
+                id="new-price"
+                name="new-price"
+                type="number"
+                min="0"
+                step="1"
+                placeholder="Nuevo precio"
+                required
+              />
+              <button type="submit">Guardar precio</button>
+            </form>
+          </section>
+        </section>
+
+        <section id="add-view" class="view-section hidden">
+          <h1>Agregar producto</h1>
+          <p>Completa el nombre y precio para guardarlo en la base de datos.</p>
+
+          <form id="add-product-form" class="form">
+            <div class="input-wrap">
+              <input
+                id="add-product-name"
+                name="add-product-name"
+                type="text"
+                placeholder="Nombre del producto"
+                autocomplete="off"
+                required
+              />
+            </div>
+            <input
+              id="add-product-price"
+              name="add-product-price"
+              type="number"
+              min="0"
+              step="1"
+              placeholder="Precio"
+              required
+            />
+            <button type="submit">Agregar</button>
+          </form>
+
+          <section id="add-result" class="result" aria-live="polite"></section>
+        </section>
+
+        <section id="delete-view" class="view-section hidden">
+          <h1>Eliminar producto</h1>
+          <p>Escribe el nombre exacto del producto que quieres borrar.</p>
+
+          <form id="delete-product-form" class="form">
+            <div class="input-wrap">
+              <input
+                id="delete-product-name"
+                name="delete-product-name"
+                type="text"
+                placeholder="Nombre del producto a eliminar"
+                autocomplete="off"
+                required
+              />
+              <div id="delete-suggestions-panel" class="suggestions-panel hidden" aria-live="polite">
+                <ul id="delete-suggestions-list" class="suggestions-list"></ul>
+              </div>
+            </div>
+            <button type="submit" class="danger-btn">Eliminar</button>
+          </form>
+
+          <section id="delete-result" class="result" aria-live="polite"></section>
+        </section>
+      </main>
+    </div>
+
+    <div id="confirm-modal" class="confirm-modal hidden" role="dialog" aria-modal="true" aria-labelledby="confirm-title">
+      <div class="confirm-card">
+        <div class="confirm-head">
+          <span class="warn-icon" aria-hidden="true">!</span>
+          <h3 id="confirm-title">Confirmar eliminacion</h3>
+        </div>
+        <p id="confirm-message">Seguro que deseas eliminar este producto?</p>
+        <div class="confirm-actions">
+          <button id="confirm-accept" type="button">Si, eliminar</button>
+          <button id="confirm-cancel" type="button" class="btn-secondary">Cancelar</button>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
