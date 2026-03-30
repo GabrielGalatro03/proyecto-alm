@@ -1,2192 +1,2197 @@
 [
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "PITUSAS"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "PARNOIR"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "CORONITAS"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "MINI CHIPS"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "HOJALMAR"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "VOCACI+ÙN"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "PEPITOS"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "SONRISAS"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "MERENGADAS"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "OREO"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "OPERA"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "CEREALITAS"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "COFLER"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "CHOCOLINAS"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "RECITAL"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "BISCUIT"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "TALITAS"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "OKEBON"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "100 DUCADOS"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "TRAVIATA REX"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "TAPITAS CHICAS"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "TAPITAS GRANDES"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "ALFAJORES SOLITA X160"
-    },
-    {
-        "price":  2900,
-        "currency":  "ARS",
-        "name":  "ALFAJORES SOLITA X300"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "DON SATUR"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "JORGITO CHICO"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "JORGITO GRANDE"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "SALADIX"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "FRUTIGRAM SALVADO"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "FRUTIGRAM CHIPS"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "FRUTIGRAM PASAS/PASAS"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "CHOCO TR+ÏO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "OSKITOS"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "ANILLO COCO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "LING+£INI"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "PEPAS TR+ÏO"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "TR+ÏO CHOC"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "PEPAS ALEMANAS"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "SCONS"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "TEREP+ÏN X200"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "TEREP+ÏN X400"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "SURTIDO BAGLEY"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "TERRABUSI"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "DIVERSI+ÙN"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "CELOSAS"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "CEREALES"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "MAGDALENAS VALENTE"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "MAGDALENAS DON SATUR"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "VAINILLAS X2"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "VAINILLAS X3"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "MERENGUITOS"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "LEIVA"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "MEDIATARDE CL+¸SICAS"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "MEDIATARDE SANDWICH"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "TE CANELA"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "HOGARE+ÊAS"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "TRAVIATA"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "TOSTADAS RIERA"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "MOLINOS DEL BOSQUE"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "LEIVA ARROZ"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "MATE COCIDO PLAYADITO X50"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "MATE COCIDO TARAG+£I X50"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "MATE COCIDO PLAYADITO X25"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "MATE COCIDO TARAG+£I X25"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "TE GREEN X50"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "TE GREEN X25"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "TE TARAG+£I X50"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "TE TARAG+£I X25"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "TE LA VIRGINIA"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "TE MANZANILLA CON ANIS"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "TE MANZANILLA CON HIERBAS"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "TE RELAJAR"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "TE ROJO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "TE BOLDO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "TE CON LIM+ÙN"
-    },
-    {
-        "price":  7000,
-        "currency":  "ARS",
-        "name":  "ARLISTAN X170"
-    },
-    {
-        "price":  4200,
-        "currency":  "ARS",
-        "name":  "ARLISTAN X100"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "ARLISTAN X50"
-    },
-    {
-        "price":  8000,
-        "currency":  "ARS",
-        "name":  "NESCAFE DOLCA X170"
-    },
-    {
-        "price":  5800,
-        "currency":  "ARS",
-        "name":  "CAF+Î LA VIRGINIA"
-    },
-    {
-        "price":  5200,
-        "currency":  "ARS",
-        "name":  "CAF+Î LA MORENITA"
-    },
-    {
-        "price":  5700,
-        "currency":  "ARS",
-        "name":  "CAF+Î 5 HISPANOS"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "HILERET SWEET X400"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "SIDIET X 600"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "SIDIET X 250"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "SIDIET X 200"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "AZUCAR HILERET X250"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "AZUCAR HILERET X500"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "HILERET CL+¸SICO"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "HILERET SWEET"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "AZ+‹CAR LEDESMA"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "AZ+‹CAR AZUCEL"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "NESQUIK X180"
-    },
-    {
-        "price":  3600,
-        "currency":  "ARS",
-        "name":  "NESQUIK X360"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "AVENA QUAKER TRADICIONAL"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "AVENA QUAKER INSTANTANEA"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "AZ+‹CAR NEGRA"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "AZ+‹CAR IMPALPABLE"
-    },
-    {
-        "price":  3400,
-        "currency":  "ARS",
-        "name":  "MAIZENA X500"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "MAIZENA X200"
-    },
-    {
-        "price":  3500,
-        "currency":  "ARS",
-        "name":  "LECHE EN POLVO"
-    },
-    {
-        "price":  2900,
-        "currency":  "ARS",
-        "name":  "MALTA"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "NESCAFE SOBRE"
-    },
-    {
-        "price":  3100,
-        "currency":  "ARS",
-        "name":  "PURE INSTANTANEO KNORR"
-    },
-    {
-        "price":  3300,
-        "currency":  "ARS",
-        "name":  "PURE INSTANTANEO"
-    },
-    {
-        "price":  3100,
-        "currency":  "ARS",
-        "name":  "BOLSAS PARA HORNO"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "DURAZNO MOLTO"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "DURAZNO SYP"
-    },
-    {
-        "price":  5900,
-        "currency":  "ARS",
-        "name":  "ANANA"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "COCTEL"
-    },
-    {
-        "price":  4900,
-        "currency":  "ARS",
-        "name":  "FRUTILLAS"
-    },
-    {
-        "price":  5300,
-        "currency":  "ARS",
-        "name":  "ACEITE COCINERO X1.5L"
-    },
-    {
-        "price":  5300,
-        "currency":  "ARS",
-        "name":  "ACEITE CA+ÊUELAS X1.5L"
-    },
-    {
-        "price":  5900,
-        "currency":  "ARS",
-        "name":  "ACEITE NATURA X1.5L"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "ACEITE NATURA X900"
-    },
-    {
-        "price":  3400,
-        "currency":  "ARS",
-        "name":  "CA+ÊUELAS X900"
-    },
-    {
-        "price":  3300,
-        "currency":  "ARS",
-        "name":  "COCINERO X900"
-    },
-    {
-        "price":  14000,
-        "currency":  "ARS",
-        "name":  "ACEITE OLIOVITA"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "FRITOLIN NATURA"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "FRITOLIN CA+ÊUELAS"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "SALSA DE SOJA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "ACETO CASALTA"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "ACETO OLIOVITA"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "MINERVA X250"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "MINERVA X500"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "VINAGRE MENOYO CHICO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "VINAGRE DOS ANCLAS VINO"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "VINAGRE DOS ANCLAS MANZANA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "VINAGRE COINCO MANZANA"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "VINAGRE COINCO VINO"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "VINAGRE MENOYO GRANDE"
-    },
-    {
-        "price":  4400,
-        "currency":  "ARS",
-        "name":  "PLAYADITO KG"
-    },
-    {
-        "price":  3800,
-        "currency":  "ARS",
-        "name":  "ROSAMONTE KG"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "MA+ÊANITA"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "PLAYADITO"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "ROSAMONTE"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "UNI+ÙN"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "CBS+Î"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "TARAG+£I"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "CACHAMATE"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "TRANQUERA"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "VERDEFLOR"
-    },
-    {
-        "price":  3800,
-        "currency":  "ARS",
-        "name":  "VERDEFLOR KG"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "ARROZ LUCCHETTI"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "ARROZ INTEGRAL"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "ARROZ GALLO KG"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "ARROZ GALLO DOBLE CAROLINA"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "ARROZ ALA X500"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "ARROZ ALA KG"
-    },
-    {
-        "price":  3500,
-        "currency":  "ARS",
-        "name":  "POROTOS MANTECA"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "LENTEJ+ÙN ELIO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "GARBANZOS"
-    },
-    {
-        "price":  1100,
-        "currency":  "ARS",
-        "name":  "MA+ÏZ PISINGALLO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "MA+ÏZ PISADO BLANCO"
-    },
-    {
-        "price":  5000,
-        "currency":  "ARS",
-        "name":  "GIACOMO"
-    },
-    {
-        "price":  4500,
-        "currency":  "ARS",
-        "name":  "BARBACOA"
-    },
-    {
-        "price":  4500,
-        "currency":  "ARS",
-        "name":  "CHIMICURRI DOS ANCLAS"
-    },
-    {
-        "price":  4500,
-        "currency":  "ARS",
-        "name":  "ALIOLI"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA ARCOR DURAZNO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA ARCOR NARANJA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA ARCOR FRUTILLA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA ARCOR CIRUELA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA CAMPAGNOLA MEMBRILLO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA CAMPAGNOLA DURAZNO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA BC ARANDANOS"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA BC DURAZNO"
-    },
-    {
-        "price":  4300,
-        "currency":  "ARS",
-        "name":  "MERMELADA BC FRUTILLA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MERMELADA BC NARANJA"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "LATA MORRON"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "CHAMPIGNIONES"
-    },
-    {
-        "price":  3300,
-        "currency":  "ARS",
-        "name":  "PALMITO BAHIA"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "PALMITO SYP ENTEROS"
-    },
-    {
-        "price":  1000,
-        "currency":  "ARS",
-        "name":  "LEGUMBRES"
-    },
-    {
-        "price":  700,
-        "currency":  "ARS",
-        "name":  "ARVEJAS INCA"
-    },
-    {
-        "price":  750,
-        "currency":  "ARS",
-        "name":  "ARVEJAS MOLTO"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "CHOCLO CREMOSO SYP"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "CHOCLO GRANO BONMAR"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "JARDINERA"
-    },
-    {
-        "price":  1000,
-        "currency":  "ARS",
-        "name":  "LATA TOMATE SYP"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "LATA SALSATI"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "PURE SALSATI"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "PURE CAMPAGNOLA"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "PURE HUERTA X500"
-    },
-    {
-        "price":  700,
-        "currency":  "ARS",
-        "name":  "PURE HUERTA X210"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "PURE HUERTA LITRO"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "SALSAS LISTAS"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "SAL FINA ESTUCHE"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "SAL FINA PAQUETE"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "SAL GRUESA"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "SAL PARRILLERA"
-    },
-    {
-        "price":  700,
-        "currency":  "ARS",
-        "name":  "MAYONESA NATURA X100"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "SAVORA X100"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "KETCHUP X100"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "KETCHUP X250"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "SAVORA X250"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "SALSA GOLF X 250"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "MAYOLIVA"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "SAVORA X500"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "MAYONESA HELLMANS X250"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "MAYONESA NATURA X250"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "MAYONESA HELLMANS X500"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "MAYONESA NATURA X500"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "MAYONESA NATURA XKG"
-    },
-    {
-        "price":  3400,
-        "currency":  "ARS",
-        "name":  "PAN RALLADO PREFERIDO XKG"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "PAN RALLADO PREFERIDO X500"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "PAN RALLADO MAMA COCINAX500"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "HARINA MORIXE PIZZA"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "HARINA PUREZA PIZZA"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "HARINA MORIXE 0000"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "HARINA MORIXE 000"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "HARINA PUREZA LEUDANTE"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "HARINA BLANCAFLOR"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FIDEOS GRIMALDI NIDO"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "FIDEOS 308"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "FIDEOS MATARAZZO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FIDEOS MATARAZZO MO+ÊO"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "FIDEOS LUCHETTI"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FIDEOS LUCHETTI CABELLO DE ANGEL"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FIDEOS DON VICENTE"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FIDEOS ARROZ"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FIDEOS GRIMALDI LARGOS"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "FIDEOS LUCHETTI HUEVO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FIDEOS SOPA GRIMALDI"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FIDEOS MATARAZZO SOPA"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "ARROZ GALLO PREPARADO"
-    },
-    {
-        "price":  400,
-        "currency":  "ARS",
-        "name":  "JUGO TANG"
-    },
-    {
-        "price":  400,
-        "currency":  "ARS",
-        "name":  "JUGO CLIGHT"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "PATE"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "LOMITO ATUN SYP"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "ATUN DESMENUZADO SYP"
-    },
-    {
-        "price":  4000,
-        "currency":  "ARS",
-        "name":  "CABALLA SYP"
-    },
-    {
-        "price":  4400,
-        "currency":  "ARS",
-        "name":  "CABALLA BAHIA"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "FLAN ROYAL"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "POSTRE ROYAL"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "EXQUISITA FLAN"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "GELATINA ROYAL"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "POLENTA CHICA"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "POLENTA GRANDE"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "CALDITO X12"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "CALDITO X6"
-    },
-    {
-        "price":  500,
-        "currency":  "ARS",
-        "name":  "CALDITO X2"
-    },
-    {
-        "price":  700,
-        "currency":  "ARS",
-        "name":  "ESCARBADIENTES"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "FOSFOROS 800"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "NUECES"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "PASAS DE UVA"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "MIX DE FRUTOS"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "SACHET LECHE"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "LECHE BOTELLA"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "LECHE CARTON"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "CREMA X 200"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "MANTECA X100"
-    },
-    {
-        "price":  3400,
-        "currency":  "ARS",
-        "name":  "MANTECA X200"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "FINLANDIA X200"
-    },
-    {
-        "price":  3600,
-        "currency":  "ARS",
-        "name":  "FINLANDIA X30"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "RICOTA GARCIA"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "DULCE DE LECHE COLONIAL X200"
-    },
-    {
-        "price":  2900,
-        "currency":  "ARS",
-        "name":  "DULCE DE LECHE COLONIAL X400"
-    },
-    {
-        "price":  3100,
-        "currency":  "ARS",
-        "name":  "DULCE DE LECHE CLASICO X400"
-    },
-    {
-        "price":  3700,
-        "currency":  "ARS",
-        "name":  "DULCE DE LECHE REPOSTERO"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "YOGUR VASITO"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "FLAN X 1"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "POSTRE X 1"
-    },
-    {
-        "price":  4500,
-        "currency":  "ARS",
-        "name":  "CASANCREM"
-    },
-    {
-        "price":  4200,
-        "currency":  "ARS",
-        "name":  "QUESO EN HEBRAS"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "QUESO RALLADO CHICO"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "QUESO RALLADO GRANDE"
-    },
-    {
-        "price":  700,
-        "currency":  "ARS",
-        "name":  "CHOCOLATADAX200"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "CHOCOLATADA BAGGIO"
-    },
-    {
-        "price":  2,
-        "currency":  "ARS",
-        "name":  "CINDOR"
-    },
-    {
-        "price":  3500,
-        "currency":  "ARS",
-        "name":  "YOGUR BEBIBLE MILKAUT"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "YOGUR BEBIBLE CREMIGAL"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "REPASADOR"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "PAPEL ALUMINIO"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "PAPEL MANTECA"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "PAPEL FILM"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "REJILLA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "BROCHES MADERA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "BROCHES PLASTCO"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "FRANELA"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "PA+ÊO MEDIA NARANJA X 1"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "PA+ÊO MEDIA NARANJA X 3"
-    },
-    {
-        "price":  9500,
-        "currency":  "ARS",
-        "name":  "JABON SKIP X 3L"
-    },
-    {
-        "price":  9500,
-        "currency":  "ARS",
-        "name":  "JABON ARIEL X3L"
-    },
-    {
-        "price":  8000,
-        "currency":  "ARS",
-        "name":  "JABON ALA X3L"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "JABON SKIP X900"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "JABON ACEX900"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "JABON ALA X900"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "JABON ZORRO X900"
-    },
-    {
-        "price":  3500,
-        "currency":  "ARS",
-        "name":  "LISOFORM"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "POETT AEROSOL"
-    },
-    {
-        "price":  6000,
-        "currency":  "ARS",
-        "name":  "RAID CUCARACHAS (NEGRO)"
-    },
-    {
-        "price":  4600,
-        "currency":  "ARS",
-        "name":  "RAID CASA Y JARDIN (NARANJA)"
-    },
-    {
-        "price":  7000,
-        "currency":  "ARS",
-        "name":  "RADI POLILLA (VERDE)"
-    },
-    {
-        "price":  7000,
-        "currency":  "ARS",
-        "name":  "RAID MOSQUITOS (AZUL)"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "CIF CREMA CHICO"
-    },
-    {
-        "price":  3400,
-        "currency":  "ARS",
-        "name":  "CIF CREMA GRANDE"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "LAVANDINA GEL AYUDIN"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "HARPIC"
-    },
-    {
-        "price":  3700,
-        "currency":  "ARS",
-        "name":  "SACHET CIF BA+ÊO"
-    },
-    {
-        "price":  3800,
-        "currency":  "ARS",
-        "name":  "GATILLO CIF VIDRIO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "SACHET CIF VIDRIO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "SACHET CIF ANTIGRASA"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "MR MUSCULO ANTIGRASA"
-    },
-    {
-        "price":  8000,
-        "currency":  "ARS",
-        "name":  "MR MUSCULO PARA HORNO"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "DETERGENTE MAGISTRAL X300"
-    },
-    {
-        "price":  3500,
-        "currency":  "ARS",
-        "name":  "DETERGENTE MAGISTRAL X500"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "DETERGENTE CIF X300"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "DETERGENTE CIF X500"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "DETERGENTE ALA"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "POETT PISO"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "PROCENEX PISO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "LAVANDINA AYUDIN ROPA BLANCA"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "LAVANDINA HEROE X1L"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "LAVANDINA HEROE X2L"
-    },
-    {
-        "price":  1300,
-        "currency":  "ARS",
-        "name":  "LAVANDINA AYUDIN X1L"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "LAVANDINA AYUDIN X2L"
-    },
-    {
-        "price":  4500,
-        "currency":  "ARS",
-        "name":  "BLEM"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "BLOQUE ADHESIVO PATO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "PASTILLA PATO"
-    },
-    {
-        "price":  2900,
-        "currency":  "ARS",
-        "name":  "PASTILLA PARA MOCHILA PATO"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "CANASTA LIQUIDA PATO"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "VIRULANA SED METAL"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "VIRULANA"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "ESPONJA ACERO/DORADA"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "ESPONJA MORTIMER"
-    },
-    {
-        "price":  900,
-        "currency":  "ARS",
-        "name":  "ESPONJA VIRULANA FINITA"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "ESPONJA GRUESA"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "ESPONJA MORTIMER DORADA"
-    },
-    {
-        "price":  4200,
-        "currency":  "ARS",
-        "name":  "CERAMICOL"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "ECHO"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "AYUDIN ROPA COLOR"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "VANISH LIQUIDO"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "VANISH POLVO"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "TRENET"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "PERFUME POETT"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "QUERUBIN"
-    },
-    {
-        "price":  5900,
-        "currency":  "ARS",
-        "name":  "DOWNEY"
-    },
-    {
-        "price":  8000,
-        "currency":  "ARS",
-        "name":  "JABON SKIP PARA DILUIR"
-    },
-    {
-        "price":  7000,
-        "currency":  "ARS",
-        "name":  "JABON ALA PARA DILUIR"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "JABON ALA 3 KG"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "JABON ALA X800"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "JABON X400"
-    },
-    {
-        "price":  7000,
-        "currency":  "ARS",
-        "name":  "ELVIVE"
-    },
-    {
-        "price":  6500,
-        "currency":  "ARS",
-        "name":  "PANTENE"
-    },
-    {
-        "price":  3900,
-        "currency":  "ARS",
-        "name":  "SEDAL"
-    },
-    {
-        "price":  3300,
-        "currency":  "ARS",
-        "name":  "PLUSBELLE"
-    },
-    {
-        "price":  7500,
-        "currency":  "ARS",
-        "name":  "HEAD\u0026SHOULDERS"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "SEDAL SACHET"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "ALCOHOL ETILICO"
-    },
-    {
-        "price":  2900,
-        "currency":  "ARS",
-        "name":  "JABON DOVE LIQUIDO"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "JABON LUX LIQUIDO"
-    },
-    {
-        "price":  4500,
-        "currency":  "ARS",
-        "name":  "PASTA DENTAL COLGATE X180"
-    },
-    {
-        "price":  6800,
-        "currency":  "ARS",
-        "name":  "PASTA DENTAL COLGATE X180 TRIPLE ACCION"
-    },
-    {
-        "price":  5400,
-        "currency":  "ARS",
-        "name":  "PASTA DENTAL COLGATE TOTAL"
-    },
-    {
-        "price":  3200,
-        "currency":  "ARS",
-        "name":  "PASTA DENTAL COLGATE HERBAL X90"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "PASTA DENTAL COLGATE HERBAL X70"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "PASTA DENTAL ODOLITO"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "CEPILLO DENTAL"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "HISOPOS"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "CAJA PA+ÊUELOS ELITE"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "JABON BARRA DOVE"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "JABON BARRA LUX"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "JABON BARRA REXONA"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "JABON GLICERINA ESTRELLA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "PA+ÊALES HUGGIES"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "ESPONJA BA+ÊO"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "CEPILLO PISO"
-    },
-    {
-        "price":  4100,
-        "currency":  "ARS",
-        "name":  "GUANTES VIRULANA"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "GUANTES PATITO"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "PAPEL ELEGANTE X6"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "PAPEL ELEGANTE X4"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "HIGIENOL X30 (ROSADO)"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "ELEGANTE X30 (AZUL)"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "HIGIENOL X50"
-    },
-    {
-        "price":  4200,
-        "currency":  "ARS",
-        "name":  "HIGIENOL X80"
-    },
-    {
-        "price":  4200,
-        "currency":  "ARS",
-        "name":  "ELEGANTE X80"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "ROLLO SUSSEX X3"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "ROLLO ELEGANTE X3"
-    },
-    {
-        "price":  1600,
-        "currency":  "ARS",
-        "name":  "ROLLO DICHA X3"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "ROLLO ELEGANTE X1"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "SERVILLETA ELEGANTE X150 (ROJA)"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "SERVILLETA ELEGANTE X250 (AZUL)"
-    },
-    {
-        "price":  1100,
-        "currency":  "ARS",
-        "name":  "ALGOD+ÙN ESTRELLA CHICO"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "ALGOD+ÙN ESTRELLA GRANDE"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "TOALLITAS HUMEDAS"
-    },
-    {
-        "price":  1200,
-        "currency":  "ARS",
-        "name":  "VELAS"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "BOLSAS ROLLO 45X60"
-    },
-    {
-        "price":  2900,
-        "currency":  "ARS",
-        "name":  "BOLSAS ROLLO 50X70"
-    },
-    {
-        "price":  3500,
-        "currency":  "ARS",
-        "name":  "BOLSAS CONSORCIO 80X110"
-    },
-    {
-        "price":  1900,
-        "currency":  "ARS",
-        "name":  "BOLSAS 60X90"
-    },
-    {
-        "price":  800,
-        "currency":  "ARS",
-        "name":  "BOLSAS 50X70"
-    },
-    {
-        "price":  700,
-        "currency":  "ARS",
-        "name":  "BOLSAS 45X60"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "JABON SEISEME"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "TRAPO DE PISO RALLADO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "TRAPO DE PISO BLANCO"
-    },
-    {
-        "price":  1800,
-        "currency":  "ARS",
-        "name":  "SECADOR GOMA"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "SECADOR PLASTICO"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "SOPAPA"
-    },
-    {
-        "price":  2700,
-        "currency":  "ARS",
-        "name":  "PALA CON PALO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "PALA SIN PALO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "ESCOBILLON CON PALO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "ESCOBILLON SIN PALO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "PALO MADERA"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "PALO CHAPA"
-    },
-    {
-        "price":  3200,
-        "currency":  "ARS",
-        "name":  "TABLETAS FUYI CAJA"
-    },
-    {
-        "price":  3200,
-        "currency":  "ARS",
-        "name":  "TABLETAS RAID CAJA"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "MANAOS"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "TERMA"
-    },
-    {
-        "price":  2100,
-        "currency":  "ARS",
-        "name":  "CUNNINGTON"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "LEVITE"
-    },
-    {
-        "price":  5,
-        "currency":  "2500.00,ARS",
-        "name":  "GATORADE 1"
-    },
-    {
-        "price":  5,
-        "currency":  "2400.00,ARS",
-        "name":  "PASO DE LOS TOROS X1"
-    },
-    {
-        "price":  25,
-        "currency":  "1.00,ARS",
-        "name":  "PASO DE LOS TOROS X2"
-    },
-    {
-        "price":  25,
-        "currency":  "4300.00,ARS",
-        "name":  "COCA X2"
-    },
-    {
-        "price":  5,
-        "currency":  "3200.00,ARS",
-        "name":  "COCA X1"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "COCA RETORNABLE X2L"
-    },
-    {
-        "price":  2800,
-        "currency":  "ARS",
-        "name":  "COCA VIDRIO X1L"
-    },
-    {
-        "price":  1500,
-        "currency":  "ARS",
-        "name":  "COCA X500"
-    },
-    {
-        "price":  5,
-        "currency":  "2200.00,ARS",
-        "name":  "AQUARIUS X1"
-    },
-    {
-        "price":  25,
-        "currency":  "2900.00,ARS",
-        "name":  "AQUARIUS X2"
-    },
-    {
-        "price":  2200,
-        "currency":  "ARS",
-        "name":  "BAGGIO X1L"
-    },
-    {
-        "price":  5,
-        "currency":  "1.00,ARS",
-        "name":  "BAGGIO X1"
-    },
-    {
-        "price":  3700,
-        "currency":  "ARS",
-        "name":  "CITRIC"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "CEPITA CAJA"
-    },
-    {
-        "price":  2300,
-        "currency":  "ARS",
-        "name":  "CEPITA BOTELLA"
-    },
-    {
-        "price":  600,
-        "currency":  "ARS",
-        "name":  "BAGGIO X200"
-    },
-    {
-        "price":  1400,
-        "currency":  "ARS",
-        "name":  "AQUARIUS X500"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "LEVITEX500"
-    },
-    {
-        "price":  2900,
-        "currency":  "ARS",
-        "name":  "MONSTER"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "SPEED CHICO"
-    },
-    {
-        "price":  2500,
-        "currency":  "ARS",
-        "name":  "SPEED GRANDE"
-    },
-    {
-        "price":  2600,
-        "currency":  "ARS",
-        "name":  "RED BULL"
-    },
-    {
-        "price":  25,
-        "currency":  "1800.00,ARS",
-        "name":  "AGUA BENEDICTINO X2"
-    },
-    {
-        "price":  2000,
-        "currency":  "ARS",
-        "name":  "AGUA VILLAVICENCIO X2L"
-    },
-    {
-        "price":  3000,
-        "currency":  "ARS",
-        "name":  "AGUA BIDON 6L BENEDICTINO"
-    },
-    {
-        "price":  1,
-        "currency":  "ARS",
-        "name":  "AGUA X500"
-    },
-    {
-        "price":  1700,
-        "currency":  "ARS",
-        "name":  "SODA MANAOS"
-    },
-    {
-        "price":  2400,
-        "currency":  "ARS",
-        "name":  "SEVEN UP/PEPSI 2L"
-    }
+  {
+    "name": "100 DUCADOS",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "ACEITE CA√ëUELAS X1.5L",
+    "price": 5300,
+    "currency": "ARS"
+  },
+  {
+    "name": "ACEITE COCINERO X1.5L",
+    "price": 5300,
+    "currency": "ARS"
+  },
+  {
+    "name": "ACEITE NATURA X1.5L",
+    "price": 5900,
+    "currency": "ARS"
+  },
+  {
+    "name": "ACEITE NATURA X900",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "ACEITE OLIOVITA",
+    "price": 14000,
+    "currency": "ARS"
+  },
+  {
+    "name": "ACETO CASALTA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "ACETO OLIOVITA",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "AGUA BENEDICTINO X2,25",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "AGUA BIDON 6L BENEDICTINO",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "AGUA VILLAVICENCIO X2L",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "AGUA X500",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "ALCOHOL ETILICO",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "ALFAJORES SOLITA X160",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "ALFAJORES SOLITA X300",
+    "price": 2900,
+    "currency": "ARS"
+  },
+  {
+    "name": "ALGOD√ìN ESTRELLA CHICO",
+    "price": 1100,
+    "currency": "ARS"
+  },
+  {
+    "name": "ALGOD√ìN ESTRELLA GRANDE",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "ALIOLI",
+    "price": 4500,
+    "currency": "ARS"
+  },
+  {
+    "name": "ANANA",
+    "price": 5900,
+    "currency": "ARS"
+  },
+  {
+    "name": "ANILLO COCO",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "AQUARIUS X1,5",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "AQUARIUS X2,25",
+    "price": 2900,
+    "currency": "ARS"
+  },
+  {
+    "name": "AQUARIUS X500",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARLISTAN X100",
+    "price": 4200,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARLISTAN X170",
+    "price": 7000,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARLISTAN X50",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARROZ ALA KG",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARROZ ALA X500",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARROZ GALLO DOBLE CAROLINA",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARROZ GALLO KG",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARROZ GALLO PREPARADO",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARROZ INTEGRAL",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARROZ LUCCHETTI",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARVEJAS INCA",
+    "price": 700,
+    "currency": "ARS"
+  },
+  {
+    "name": "ARVEJAS MOLTO",
+    "price": 750,
+    "currency": "ARS"
+  },
+  {
+    "name": "ATUN DESMENUZADO SYP",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "AVENA QUAKER INSTANTANEA",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "AVENA QUAKER TRADICIONAL",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "AYUDIN ROPA COLOR",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "AZ√öCAR AZUCEL",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "AZUCAR HILERET X250",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "AZUCAR HILERET X500",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "AZ√öCAR IMPALPABLE",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "AZ√öCAR LEDESMA",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "AZ√öCAR NEGRA",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "BAGGIO X1,5",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "BAGGIO X1L",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "BAGGIO X200",
+    "price": 600,
+    "currency": "ARS"
+  },
+  {
+    "name": "BARBACOA",
+    "price": 4500,
+    "currency": "ARS"
+  },
+  {
+    "name": "BISCUIT",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "BLEM",
+    "price": 4500,
+    "currency": "ARS"
+  },
+  {
+    "name": "BLOQUE ADHESIVO PATO",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "BOLSAS 45X60",
+    "price": 700,
+    "currency": "ARS"
+  },
+  {
+    "name": "BOLSAS 50X70",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "BOLSAS 60X90",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "BOLSAS CONSORCIO 80X110",
+    "price": 3500,
+    "currency": "ARS"
+  },
+  {
+    "name": "BOLSAS PARA HORNO",
+    "price": 3100,
+    "currency": "ARS"
+  },
+  {
+    "name": "BOLSAS ROLLO 45X60",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "BOLSAS ROLLO 50X70",
+    "price": 2900,
+    "currency": "ARS"
+  },
+  {
+    "name": "BROCHES MADERA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "BROCHES PLASTCO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "CABALLA BAHIA",
+    "price": 4400,
+    "currency": "ARS"
+  },
+  {
+    "name": "CABALLA SYP",
+    "price": 4000,
+    "currency": "ARS"
+  },
+  {
+    "name": "CACHAMATE",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "CAF√â 5 HISPANOS",
+    "price": 5700,
+    "currency": "ARS"
+  },
+  {
+    "name": "CAF√â LA MORENITA",
+    "price": 5200,
+    "currency": "ARS"
+  },
+  {
+    "name": "CAF√â LA VIRGINIA",
+    "price": 5800,
+    "currency": "ARS"
+  },
+  {
+    "name": "CAJA PA√ëUELOS ELITE",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "CALDITO X12",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "CALDITO X2",
+    "price": 500,
+    "currency": "ARS"
+  },
+  {
+    "name": "CALDITO X6",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "CANASTA LIQUIDA PATO",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "CA√ëUELAS X900",
+    "price": 3400,
+    "currency": "ARS"
+  },
+  {
+    "name": "CASANCREM",
+    "price": 4500,
+    "currency": "ARS"
+  },
+  {
+    "name": "CBS√â",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "CELOSAS",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "CEPILLO DENTAL",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "CEPILLO PISO",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "CEPITA BOTELLA",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "CEPITA CAJA",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "CERAMICOL",
+    "price": 4200,
+    "currency": "ARS"
+  },
+  {
+    "name": "CEREALES",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "CEREALITAS",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "CHAMPIGNIONES",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "CHIMICURRI DOS ANCLAS",
+    "price": 4500,
+    "currency": "ARS"
+  },
+  {
+    "name": "CHOCLO CREMOSO SYP",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "CHOCLO GRANO BONMAR",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "CHOCOLATADA BAGGIO",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "CHOCOLATADAX200",
+    "price": 700,
+    "currency": "ARS"
+  },
+  {
+    "name": "CHOCOLINAS",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "CHOCO TR√çO",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "CIF CREMA CHICO",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "CIF CREMA GRANDE",
+    "price": 3400,
+    "currency": "ARS"
+  },
+  {
+    "name": "CINDOR",
+    "price": 2,
+    "currency": "ARS"
+  },
+  {
+    "name": "CITRIC",
+    "price": 3700,
+    "currency": "ARS"
+  },
+  {
+    "name": "COCA RETORNABLE X2L",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "COCA VIDRIO X1L",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "COCA X1,5",
+    "price": 3200,
+    "currency": "ARS"
+  },
+  {
+    "name": "COCA X2,25",
+    "price": 4300,
+    "currency": "ARS"
+  },
+  {
+    "name": "COCA X500",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "COCINERO X900",
+    "price": 3300,
+    "currency": "ARS"
+  },
+  {
+    "name": "COCTEL",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "COFLER",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "CORONITAS",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "CREMA X 200",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "CREMA X300",
+    "price": 3700,
+    "currency": "ARS"
+  },
+  {
+    "name": "CUNNINGTON",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "DETERGENTE ALA",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "DETERGENTE CIF X300",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "DETERGENTE CIF X500",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "DETERGENTE MAGISTRAL X300",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "DETERGENTE MAGISTRAL X500",
+    "price": 3500,
+    "currency": "ARS"
+  },
+  {
+    "name": "DIVERSI√ìN",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "DON SATUR",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "DOWNEY",
+    "price": 5900,
+    "currency": "ARS"
+  },
+  {
+    "name": "DULCE DE LECHE CLASICO X400",
+    "price": 3100,
+    "currency": "ARS"
+  },
+  {
+    "name": "DULCE DE LECHE COLONIAL X200",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "DULCE DE LECHE COLONIAL X400",
+    "price": 2900,
+    "currency": "ARS"
+  },
+  {
+    "name": "DULCE DE LECHE REPOSTERO",
+    "price": 3700,
+    "currency": "ARS"
+  },
+  {
+    "name": "DURAZNO MOLTO",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "DURAZNO SYP",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "ECHO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "ELEGANTE X30 (AZUL)",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "ELEGANTE X80",
+    "price": 4200,
+    "currency": "ARS"
+  },
+  {
+    "name": "ELVIVE",
+    "price": 7000,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESCARBADIENTES",
+    "price": 700,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESCOBILLON CON PALO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESCOBILLON SIN PALO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESPONJA ACERO/DORADA",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESPONJA BA√ëO",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESPONJA GRUESA",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESPONJA MORTIMER",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESPONJA MORTIMER DORADA",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "ESPONJA VIRULANA FINITA",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "EXQUISITA FLAN",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS 308",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS ARROZ",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS DON VICENTE",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS GRIMALDI LARGOS",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS GRIMALDI NIDO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS LUCHETTI",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS LUCHETTI CABELLO DE ANGEL",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS LUCHETTI HUEVO",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS MATARAZZO",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS MATARAZZO MO√ëO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS MATARAZZO SOPA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FIDEOS SOPA GRIMALDI",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FINLANDIA X200",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "FINLANDIA X30",
+    "price": 3600,
+    "currency": "ARS"
+  },
+  {
+    "name": "FLAN ROYAL",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "FLAN X 1",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "FOSFOROS 800",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "FRANELA",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "FRITOLIN CA√ëUELAS",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "FRITOLIN NATURA",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "FRUTIGRAM CHIPS",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "FRUTIGRAM PASAS/PASAS",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "FRUTIGRAM SALVADO",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "FRUTILLAS",
+    "price": 4900,
+    "currency": "ARS"
+  },
+  {
+    "name": "GARBANZOS",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "GATILLO CIF VIDRIO",
+    "price": 3800,
+    "currency": "ARS"
+  },
+  {
+    "name": "GATORADE 1,5",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "GELATINA ROYAL",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "GIACOMO",
+    "price": 5000,
+    "currency": "ARS"
+  },
+  {
+    "name": "GUANTES PATITO",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "GUANTES VIRULANA",
+    "price": 4100,
+    "currency": "ARS"
+  },
+  {
+    "name": "HARINA BLANCAFLOR",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "HARINA MORIXE 000",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "HARINA MORIXE 0000",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "HARINA MORIXE PIZZA",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "HARINA PUREZA LEUDANTE",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "HARINA PUREZA PIZZA",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "HARPIC",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "HEAD&SHOULDERS",
+    "price": 7500,
+    "currency": "ARS"
+  },
+  {
+    "name": "HIGIENOL X30 (ROSADO)",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "HIGIENOL X50",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "HIGIENOL X80",
+    "price": 4200,
+    "currency": "ARS"
+  },
+  {
+    "name": "HILERET CL√ÅSICO",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "HILERET SWEET",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "HILERET SWEET X400",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "HISOPOS",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "HOGARE√ëAS",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "HOJALMAR",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON ACEX900",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON ALA 3 KG",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON ALA PARA DILUIR",
+    "price": 7000,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON ALA X3L",
+    "price": 8000,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON ALA X800",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON ALA X900",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON ARIEL X3L",
+    "price": 9500,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON BARRA DOVE",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON BARRA LUX",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON BARRA REXONA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON DOVE LIQUIDO",
+    "price": 2900,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON GLICERINA ESTRELLA",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON LUX LIQUIDO",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON SEISEME",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON SKIP PARA DILUIR",
+    "price": 8000,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON SKIP X 3L",
+    "price": 9500,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON SKIP X900",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON X400",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "JABON ZORRO X900",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "JARDINERA",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "JORGITO CHICO",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "JORGITO GRANDE",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "JUGO CLIGHT",
+    "price": 400,
+    "currency": "ARS"
+  },
+  {
+    "name": "JUGO TANG",
+    "price": 400,
+    "currency": "ARS"
+  },
+  {
+    "name": "KETCHUP X100",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "KETCHUP X250",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "LATA MORRON",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "LATA SALSATI",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "LATA TOMATE SYP",
+    "price": 1000,
+    "currency": "ARS"
+  },
+  {
+    "name": "LAVANDINA AYUDIN ROPA BLANCA",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "LAVANDINA AYUDIN X1L",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "LAVANDINA AYUDIN X2L",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "LAVANDINA GEL AYUDIN",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "LAVANDINA HEROE X1L",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "LAVANDINA HEROE X2L",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "LECHE BOTELLA",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "LECHE CARTON",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "LECHE EN POLVO",
+    "price": 3500,
+    "currency": "ARS"
+  },
+  {
+    "name": "LEGUMBRES",
+    "price": 1000,
+    "currency": "ARS"
+  },
+  {
+    "name": "LEIVA",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "LEIVA ARROZ",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "LENTEJ√ìN ELIO",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "LEVITE",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "LEVITEX500",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "LING√úINI",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "LISOFORM",
+    "price": 3500,
+    "currency": "ARS"
+  },
+  {
+    "name": "LOMITO ATUN SYP",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAGDALENAS DON SATUR",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAGDALENAS VALENTE",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAIZENA X200",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAIZENA X500",
+    "price": 3400,
+    "currency": "ARS"
+  },
+  {
+    "name": "MA√çZ PISADO BLANCO",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "MA√çZ PISINGALLO",
+    "price": 1100,
+    "currency": "ARS"
+  },
+  {
+    "name": "MALTA",
+    "price": 2900,
+    "currency": "ARS"
+  },
+  {
+    "name": "MA√ëANITA",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "MANAOS",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "MANTECA X100",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "MANTECA X200",
+    "price": 3400,
+    "currency": "ARS"
+  },
+  {
+    "name": "MATE COCIDO PLAYADITO X25",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "MATE COCIDO PLAYADITO X50",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "MATE COCIDO TARAG√úI X25",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "MATE COCIDO TARAG√úI X50",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAYOLIVA",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAYONESA HELLMANS X250",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAYONESA HELLMANS X500",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAYONESA NATURA X100",
+    "price": 700,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAYONESA NATURA X250",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAYONESA NATURA X500",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "MAYONESA NATURA XKG",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MEDIATARDE CL√ÅSICAS",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "MEDIATARDE SANDWICH",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERENGADAS",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERENGUITOS",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA ARCOR CIRUELA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA ARCOR DURAZNO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA ARCOR FRUTILLA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA ARCOR NARANJA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA BC ARANDANOS",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA BC DURAZNO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA BC FRUTILLA",
+    "price": 4300,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA BC NARANJA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA CAMPAGNOLA DURAZNO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MERMELADA CAMPAGNOLA MEMBRILLO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "MINERVA X250",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "MINERVA X500",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "MINI CHIPS",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "MIX DE FRUTOS",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "MOLINOS DEL BOSQUE",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "MONSTER",
+    "price": 2900,
+    "currency": "ARS"
+  },
+  {
+    "name": "MR MUSCULO ANTIGRASA",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "MR MUSCULO PARA HORNO",
+    "price": 8000,
+    "currency": "ARS"
+  },
+  {
+    "name": "NESCAFE DOLCA X170",
+    "price": 8000,
+    "currency": "ARS"
+  },
+  {
+    "name": "NESCAFE SOBRE",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "NESQUIK X180",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "NESQUIK X360",
+    "price": 3600,
+    "currency": "ARS"
+  },
+  {
+    "name": "NUECES",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "OKEBON",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "OPERA",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "OREO",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "OSKITOS",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "PALA CON PALO",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "PALA SIN PALO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "PALMITO BAHIA",
+    "price": 3300,
+    "currency": "ARS"
+  },
+  {
+    "name": "PALMITO SYP ENTEROS",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "PALO CHAPA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "PALO MADERA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "PA√ëALES HUGGIES",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "PA√ëO MEDIA NARANJA X 1",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "PA√ëO MEDIA NARANJA X 3",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "PAN RALLADO MAMA COCINAX500",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "PAN RALLADO PREFERIDO X500",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "PAN RALLADO PREFERIDO XKG",
+    "price": 3400,
+    "currency": "ARS"
+  },
+  {
+    "name": "PANTENE",
+    "price": 6500,
+    "currency": "ARS"
+  },
+  {
+    "name": "PAPEL ALUMINIO",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "PAPEL ELEGANTE X4",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "PAPEL ELEGANTE X6",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "PAPEL FILM",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "PAPEL MANTECA",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "PARNOIR",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASAS DE UVA",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASO DE LOS TOROS X1,5",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASO DE LOS TOROS X2,25",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASTA DENTAL COLGATE HERBAL X70",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASTA DENTAL COLGATE HERBAL X90",
+    "price": 3200,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASTA DENTAL COLGATE TOTAL",
+    "price": 5400,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASTA DENTAL COLGATE X180",
+    "price": 4500,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASTA DENTAL COLGATE X180 TRIPLE ACCION",
+    "price": 6800,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASTA DENTAL ODOLITO",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASTILLA PARA MOCHILA PATO",
+    "price": 2900,
+    "currency": "ARS"
+  },
+  {
+    "name": "PASTILLA PATO",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "PATE",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "PEPAS ALEMANAS",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "PEPAS TR√çO",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "PEPITOS",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "PERFUME POETT",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "PITUSAS",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "PLAYADITO",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "PLAYADITO KG",
+    "price": 4400,
+    "currency": "ARS"
+  },
+  {
+    "name": "PLUSBELLE",
+    "price": 3300,
+    "currency": "ARS"
+  },
+  {
+    "name": "POETT AEROSOL",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "POETT PISO",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "POLENTA CHICA",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "POLENTA GRANDE",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "POROTOS MANTECA",
+    "price": 3500,
+    "currency": "ARS"
+  },
+  {
+    "name": "POSTRE ROYAL",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "POSTRE X 1",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "PROCENEX PISO",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "PURE CAMPAGNOLA",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "PURE HUERTA LITRO",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "PURE HUERTA X210",
+    "price": 700,
+    "currency": "ARS"
+  },
+  {
+    "name": "PURE HUERTA X500",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "PURE INSTANTANEO",
+    "price": 3300,
+    "currency": "ARS"
+  },
+  {
+    "name": "PURE INSTANTANEO KNORR",
+    "price": 3100,
+    "currency": "ARS"
+  },
+  {
+    "name": "PURE SALSATI",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "QUERUBIN",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "QUESO EN HEBRAS",
+    "price": 4200,
+    "currency": "ARS"
+  },
+  {
+    "name": "QUESO RALLADO CHICO",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "QUESO RALLADO GRANDE",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "RADI POLILLA (VERDE)",
+    "price": 7000,
+    "currency": "ARS"
+  },
+  {
+    "name": "RAID CASA Y JARDIN (NARANJA)",
+    "price": 4600,
+    "currency": "ARS"
+  },
+  {
+    "name": "RAID CUCARACHAS (NEGRO)",
+    "price": 6000,
+    "currency": "ARS"
+  },
+  {
+    "name": "RAID MOSQUITOS (AZUL)",
+    "price": 7000,
+    "currency": "ARS"
+  },
+  {
+    "name": "RECITAL",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "RED BULL",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "REJILLA",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "REPASADOR",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "RICOTA GARCIA",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "ROLLO DICHA X3",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "ROLLO ELEGANTE X1",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "ROLLO ELEGANTE X3",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "ROLLO SUSSEX X3",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "ROSAMONTE",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "ROSAMONTE KG",
+    "price": 3800,
+    "currency": "ARS"
+  },
+  {
+    "name": "SACHET CIF ANTIGRASA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "SACHET CIF BA√ëO",
+    "price": 3700,
+    "currency": "ARS"
+  },
+  {
+    "name": "SACHET CIF VIDRIO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "SACHET LECHE",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "SALADIX",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "SAL FINA ESTUCHE",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "SAL FINA PAQUETE",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "SAL GRUESA",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "SAL PARRILLERA",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "SALSA DE SOJA",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "SALSA GOLF X 250",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "SALSAS LISTAS",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "SAVORA X100",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "SAVORA X250",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "SAVORA X500",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "SCONS",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "SECADOR GOMA",
+    "price": 1800,
+    "currency": "ARS"
+  },
+  {
+    "name": "SECADOR PLASTICO",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "SEDAL",
+    "price": 3900,
+    "currency": "ARS"
+  },
+  {
+    "name": "SEDAL SACHET",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "SERVILLETA ELEGANTE X150 (ROJA)",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "SERVILLETA ELEGANTE X250 (AZUL)",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "SEVEN UP/PEPSI 2L",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "SIDIET X 200",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "SIDIET X 250",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "SIDIET X 600",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "SODA MANAOS",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "SONRISAS",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "SOPAPA",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "SPEED CHICO",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "SPEED GRANDE",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "SURTIDO BAGLEY",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "TABLETAS FUYI CAJA",
+    "price": 3200,
+    "currency": "ARS"
+  },
+  {
+    "name": "TABLETAS RAID CAJA",
+    "price": 3200,
+    "currency": "ARS"
+  },
+  {
+    "name": "TALITAS",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "TAPITAS CHICAS",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "TAPITAS GRANDES",
+    "price": 3000,
+    "currency": "ARS"
+  },
+  {
+    "name": "TARAG√úI",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE BOLDO",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE CANELA",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE CON LIM√ìN",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE GREEN X25",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE GREEN X50",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE LA VIRGINIA",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE MANZANILLA CON ANIS",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE MANZANILLA CON HIERBAS",
+    "price": 1600,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE RELAJAR",
+    "price": 2400,
+    "currency": "ARS"
+  },
+  {
+    "name": "TEREP√çN X200",
+    "price": 800,
+    "currency": "ARS"
+  },
+  {
+    "name": "TEREP√çN X400",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "TERMA",
+    "price": 2200,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE ROJO",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "TERRABUSI",
+    "price": 2800,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE TARAG√úI X25",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "TE TARAG√úI X50",
+    "price": 1700,
+    "currency": "ARS"
+  },
+  {
+    "name": "TOALLITAS HUMEDAS",
+    "price": 2500,
+    "currency": "ARS"
+  },
+  {
+    "name": "TOSTADAS RIERA",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "TRANQUERA",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "TRAPO DE PISO BLANCO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "TRAPO DE PISO RALLADO",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "TRAVIATA",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "TRAVIATA REX",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "TRENET",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "TR√çO CHOC",
+    "price": 1500,
+    "currency": "ARS"
+  },
+  {
+    "name": "UNI√ìN",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "VAINILLAS X2",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "VAINILLAS X3",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "VANISH LIQUIDO",
+    "price": 2100,
+    "currency": "ARS"
+  },
+  {
+    "name": "VANISH POLVO",
+    "price": 2700,
+    "currency": "ARS"
+  },
+  {
+    "name": "VELAS",
+    "price": 1200,
+    "currency": "ARS"
+  },
+  {
+    "name": "VERDEFLOR",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "VERDEFLOR KG",
+    "price": 3800,
+    "currency": "ARS"
+  },
+  {
+    "name": "VINAGRE COINCO MANZANA",
+    "price": 1,
+    "currency": "ARS"
+  },
+  {
+    "name": "VINAGRE COINCO VINO",
+    "price": 2300,
+    "currency": "ARS"
+  },
+  {
+    "name": "VINAGRE DOS ANCLAS MANZANA",
+    "price": 2600,
+    "currency": "ARS"
+  },
+  {
+    "name": "VINAGRE DOS ANCLAS VINO",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "VINAGRE MENOYO CHICO",
+    "price": 1300,
+    "currency": "ARS"
+  },
+  {
+    "name": "VINAGRE MENOYO GRANDE",
+    "price": 2000,
+    "currency": "ARS"
+  },
+  {
+    "name": "VIRULANA",
+    "price": 1400,
+    "currency": "ARS"
+  },
+  {
+    "name": "VIRULANA SED METAL",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "VOCACI√ìN",
+    "price": 900,
+    "currency": "ARS"
+  },
+  {
+    "name": "YOGUR BEBIBLE CREMIGAL",
+    "price": 1900,
+    "currency": "ARS"
+  },
+  {
+    "name": "YOGUR BEBIBLE MILKAUT",
+    "price": 3500,
+    "currency": "ARS"
+  },
+  {
+    "name": "YOGUR VASITO",
+    "price": 1800,
+    "currency": "ARS"
+  }
 ]
