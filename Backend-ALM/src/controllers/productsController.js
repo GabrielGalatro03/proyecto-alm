@@ -18,6 +18,18 @@ async function getProductPrice(req, res) {
   const product = await findProductByName(name);
 
   if (!product) {
+    // Si no encuentra exacto, intenta por prefijo
+    const suggestions = await searchProductsByPrefix(name, 1);
+    if (suggestions.length > 0) {
+      const fallback = await findProductByName(suggestions[0]);
+      if (fallback) {
+        return res.json({
+          name: fallback.name,
+          price: fallback.price,
+          currency: fallback.currency || "ARS"
+        });
+      }
+    }
     return res.status(404).json({
       error: `No se encontro el producto: ${name}`
     });
