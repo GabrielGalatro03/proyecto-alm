@@ -117,6 +117,41 @@ async function deleteProductByName(name) {
   return rows[0] || null;
 }
 
+async function loadDefaultProducts() {
+  try {
+    const { rows } = await pool.query("SELECT COUNT(*) as count FROM products");
+    const count = parseInt(rows[0].count, 10);
+    
+    if (count > 0) {
+      console.log(`Database already has ${count} products, skipping default load`);
+      return;
+    }
+
+    console.log("Database is empty, loading default products...");
+    const fs = require("fs");
+    const path = require("path");
+    const defaultFile = path.join(__dirname, "default-products.json");
+    
+    if (!fs.existsSync(defaultFile)) {
+      console.log("No default products file found, skipping");
+      return;
+    }
+
+    const products = JSON.parse(fs.readFileSync(defaultFile, "utf-8"));
+    
+    for (const product of products) {
+      await pool.query(
+        "INSERT INTO products (name, price, currency) VALUES ($1, $2, $3) ON CONFLICT (name) DO NOTHING",
+        [product.name, product.price, product.currency || "ARS"]
+      );
+    }
+    
+    console.log(`Loaded ${products.length} default products`);
+  } catch (error) {
+    console.error("Error loading default products:", error.message);
+  }
+}
+
 module.exports = {
   initDatabase,
   findProductByName,
@@ -124,5 +159,6 @@ module.exports = {
   updateProductPriceByName,
   createProduct,
   deleteProductByName,
+  loadDefaultProducts,
   pool
 };

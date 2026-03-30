@@ -1,4 +1,4 @@
-const { initDatabase } = require("./db");
+const { initDatabase, loadDefaultProducts } = require("./db");
 const { createApp } = require("./app");
 const { getCredentials } = require("./controllers/authController");
 
@@ -9,6 +9,7 @@ async function startServer() {
   try {
     getCredentials();
     await initDatabase();
+    await loadDefaultProducts();
 
     app.listen(PORT, () => {
       console.log(`Servidor corriendo en http://localhost:${PORT}`);
